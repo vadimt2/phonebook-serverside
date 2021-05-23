@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PhoneBookAPI.Core\PhoneBookAPI.Core.csproj" />
+    <ProjectReference Include="..\PhoneBookAPI.Infrastructure\PhoneBookAPI.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

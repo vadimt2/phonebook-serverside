@@ -1,0 +1,9 @@
+C:\Users\vadim\source\repos\PhoneBookAPI\PhoneBookAPI.Core\bin\Debug\netcoreapp3.1\PhoneBookAPI.Core.deps.json
+C:\Users\vadim\source\repos\PhoneBookAPI\PhoneBookAPI.Core\bin\Debug\netcoreapp3.1\PhoneBookAPI.Core.dll
+C:\Users\vadim\source\repos\PhoneBookAPI\PhoneBookAPI.Core\bin\Debug\netcoreapp3.1\PhoneBookAPI.Core.pdb
+C:\Users\vadim\source\repos\PhoneBookAPI\PhoneBookAPI.Core\obj\Debug\netcoreapp3.1\PhoneBookAPI.Core.AssemblyInfoInputs.cache
+C:\Users\vadim\source\repos\PhoneBookAPI\PhoneBookAPI.Core\obj\Debug\netcoreapp3.1\PhoneBookAPI.Core.AssemblyInfo.cs
+C:\Users\vadim\source\repos\PhoneBookAPI\PhoneBookAPI.Core\obj\Debug\netcoreapp3.1\PhoneBookAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\PhoneBookAPI\PhoneBookAPI.Core\obj\Debug\netcoreapp3.1\PhoneBookAPI.Core.dll
+C:\Users\vadim\source\repos\PhoneBookAPI\PhoneBookAPI.Core\obj\Debug\netcoreapp3.1\PhoneBookAPI.Core.pdb
+C:\Users\vadim\source\repos\PhoneBookAPI\PhoneBookAPI.Core\obj\Debug\netcoreapp3.1\PhoneBookAPI.Core.csprojAssemblyReference.cache

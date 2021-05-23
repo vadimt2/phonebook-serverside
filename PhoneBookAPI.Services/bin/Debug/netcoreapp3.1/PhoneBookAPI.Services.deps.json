@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PhoneBookAPI.Services/1.0.0": {
+        "dependencies": {
+          "PhoneBookAPI.Core": "1.0.0",
+          "PhoneBookAPI.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "PhoneBookAPI.Services.dll": {}
+        }
+      },
+      "PhoneBookAPI.Core/1.0.0": {
+        "runtime": {
+          "PhoneBookAPI.Core.dll": {}
+        }
+      },
+      "PhoneBookAPI.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PhoneBookAPI.Core": "1.0.0"
+        },
+        "runtime": {
+          "PhoneBookAPI.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneBookAPI.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhoneBookAPI.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhoneBookAPI.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
